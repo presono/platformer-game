@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAC6q6sKsKq7q6q7ugugu6u7uru7CqC6qrq6mpmZCZCpuroKkAmZmbm6ugvw//8PqauqC/n//5+pq7oL+S/yn6C7uwr5L/KfoLq7Cvn//5+puroK+f//n6mrupoJmQCZoKu6mpCZmQmwu7q6qwqgq7qru7urC6C7uqq7q7sLoKq7qg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Stick"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAZgYAAAAAAGBmZgAAAAAAY/ZjBgAAAABm/29mBgAAYGZj/wYAAABgZmb2DwAAAABmb2b//2YAYGbz/29g//9gZmZvAAAAAGBj/2NmAAAAAGZvBgAAAAAA9mYAAAAAAABmYwYAAAAAAGAGAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
